@@ -75,12 +75,12 @@ We welcome code contributions! Areas where help is especially appreciated:
 1. **Fork the repository** on GitHub
 2. **Clone your fork** locally:
    ```bash
-   git clone https://github.com/juansilvadesign/protect-clone.git
+   git clone https://github.com/<your-username>/protect-clone.git
    cd protect-clone
    ```
 3. **Add the upstream remote**:
    ```bash
-   git remote add upstream https://github.com/juansilvadesign/protect-clone.git
+   git remote add upstream https://github.com/<your-username>/protect-clone.git
    ```
 
 ---
