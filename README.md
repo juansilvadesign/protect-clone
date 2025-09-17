@@ -164,7 +164,7 @@ pip install -r requirements.txt
 
 ---
 
-## � Troubleshooting
+## 🛠️ Troubleshooting
 
 ### Common Issues & Solutions
 
@@ -205,7 +205,7 @@ pip install -r requirements.txt
 
 ---
 
-## �🗺️ Roadmap
+## 🗺️ Roadmap
 
 - [ ] 📥 Batch channel support
 - [ ] 📝 Logging improvements
